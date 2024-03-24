@@ -57,7 +57,7 @@ The project aims to analyze the funding trends of start-ups in India from 2018 t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![image](https://github.com/heldana30/Azubi_Africa_Live_Project_Indian_Startup_Funding_Analysis/lob/main/Screenshots/dashboard20first20draft.png)
+![Model]()
 
 <!-- GETTING STARTED -->
 
