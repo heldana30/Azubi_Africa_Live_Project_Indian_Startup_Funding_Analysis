@@ -57,7 +57,9 @@ The project aims to analyze the funding trends of start-ups in India from 2018 t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Model]()
+
+![alt text](<Screenshots/Indian startup analysis dashboard - Power BI.png>)
+
 
 <!-- GETTING STARTED -->
 
